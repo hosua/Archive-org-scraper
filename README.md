@@ -10,6 +10,12 @@ I also recommend turning off extracting after downloading if you are downloading
 
 Also, change your max chunks per download/max simultaneous downloads to 3-5. Play around with this and see what works best. It will increase your download speeds if set up properly.
 
+# Table of contents
+
+- [Archive.org scraper](#archiveorg-scraper)
+- [Prerequisites](#prerequisites)
+- [How to use](#how-to-use)
+
 # Prerequisites
 
 ### Getting the Webdriver
