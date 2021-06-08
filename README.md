@@ -100,7 +100,7 @@ After this, it will ask if you wish to grab extras. Just type 'y' if you want to
 
 Note that this works by simply checking if (Beta, (Demo, or (Proto are in the title. 
 
-If the repository you choose uses a different naming convention, this will not work. 
+If the repository you choose uses a different naming convention, this will not work and simply just end up grabbing all the links.
 
 ![9](https://i.imgur.com/wlVG1xo.png)
 
