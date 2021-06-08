@@ -1,6 +1,6 @@
 # Archive.org scraper
 
-### I just noticed that Jdownloader 2 has a built in filter function, making this utility completely obsolete. I'll leave it up anyway since it technically still is functional and may be useful elsewhere.
+NOTE: I just noticed that Jdownloader 2 has a built in filter function, making this utility completely obsolete. I'll leave it up anyway since it technically still is functional and may be useful for me in the future.
 
 I made this program to make it easier to only grab the ROM links I want from ROM megathread links (more specifically, only USA roms). 
 
