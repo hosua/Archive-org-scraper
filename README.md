@@ -98,17 +98,17 @@ If the repository you choose uses a different naming convention, this will not w
 
 ![9](https://i.imgur.com/wlVG1xo.png)
 
-The program should now start grabbing the links and writing them links.txt, which can be found in the program's directory.
+The program should now start grabbing the links and writing them a file named links.txt which can be found in the program's directory.
 
-Now, open Jdownloader 2, then open the txt file with all the links that you grabbed.
+Now, open Jdownloader 2, then open the links.txt file with all the links that you grabbed.
 
-In the links.txt file, press ctrl-A followed by ctrl-C to highlight and copy all the links.
+In the links.txt file, press ctrl-A followed by ctrl-C to highlight all and copy the links.
 
 Jdownloader 2 should have automatically detected all the links and added them. If it doesnt, you can manually add them like this:
 
 ![10](https://i.imgur.com/6MoYpkP.png)
 
-You should now have a bunch of links ready to download. right click one of them and click "start all downloads"!
+You should now have a bunch of links ready to download. Right click one of them and click "start all downloads"!
 
 ![11](https://i.imgur.com/ak43Spa.png)
 
