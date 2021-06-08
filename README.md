@@ -1,12 +1,14 @@
 # Archive.org scraper
 
+### I just noticed that Jdownloader 2 has a built in filter function, making this utility completely obsolete. I'll leave it up anyway since it technically still is functional and may be useful elsewhere.
+
 I made this program to make it easier to only grab the ROM links I want from ROM megathread links (more specifically, only USA roms). 
 
 I personally use JDownloader 2 as my download manager and highly recommend that you do as well if you plan on downloading ROMs from archive.org. It speeds up downloads and works in conjunction with this program.
 
 If you are downloading Jdownloader 2 for the first time, please make sure you enable the archive.org plugin. 
 
-I also recommend turning off extracting after downloading if you are downloading a lot of files. This will needlessly increase the amount of space you will need to download all the files.
+I also recommend turning off extract after downloading if you are downloading a lot of files. This will needlessly increase the amount of space you will need to download all the files.
 
 Also, change your max chunks per download/max simultaneous downloads to 3-5. Play around with this and see what works best. It will increase your download speeds if set up properly.
 
