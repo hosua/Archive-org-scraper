@@ -35,7 +35,7 @@ Webdriver links:
 
 After downloading your preferred webdriver, create a folder anywhere (except your Program Files(x86) folder!) and name it whatever you want. 
 
-I personally put mine in my 'C:\Program Files' folder and named ChromeDriver. 
+I personally put mine in my 'C:\Program Files' folder and named it ChromeDriver. 
 
 However, do NOT put this in your Program Files(x86) folder, it may not work properly. 
 
