@@ -73,11 +73,11 @@ If you are confused about anything I just said, just do exactly as I do in the p
 
 After you click edit, you will be shown a list of all of your path variables. 
 
-Click new on the top right. This will create an empty entry. Copy and paste the directory of the webdriver that you copied earlier into this entry, then click Ok, and then ok again to close the windows and save the changes.
-
 ![6](https://i.imgur.com/jcZ6KXc.png)
 
-Once this is complete, you should now be able to run the program! 
+Click new on the top right. This will create an empty entry. Copy and paste the directory of the webdriver that you copied earlier into this entry, then click Ok, and then ok again to close the windows and save the changes.
+
+Once this is complete, you should now be able to scrape the web! 
 
 
 # How to use
